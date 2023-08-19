@@ -7,7 +7,7 @@ import {useState} from "react";
 
 
 function App() {
-  const [alert, setAlert] = useState({'this is an alert'})
+  const [alert, setAlert] = useState('this is an alert')
   const onAlert = (message, type)=>{};
   return (
   <>
