@@ -33,7 +33,7 @@ Welcome to the Jain Community Website for Germany! This website serves as a plat
 
 To access the Jain Community Website:
 
-1. Visit the website at [your-website-url.com](https://www.your-website-url.com).
+1. Visit the website at //yet to be registered
 2. Sign up for an account or log in if you already have one.
 3. Explore events, join discussions, and start connecting with the Jain community in Germany.
 
@@ -59,8 +59,5 @@ We appreciate your help in enhancing the Jain Community Website for Germany.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+Yet to be added
 
----
-
-Feel free to adjust and expand upon this template as needed for your project. Best of luck with your website, and may it successfully connect and serve the Jain community in Germany!
